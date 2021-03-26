@@ -3,18 +3,13 @@
          xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
          xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
     <parent>
-        <artifactId>java-exercise</artifactId>
+        <artifactId>01-primitive-types</artifactId>
         <groupId>com.halils</groupId>
         <version>1.0-SNAPSHOT</version>
     </parent>
     <modelVersion>4.0.0</modelVersion>
 
-    <artifactId>01-primitive-types</artifactId>
-    <packaging>pom</packaging>
-    <modules>
-        <module>whole-numbers</module>
-        <module>floating-numbers</module>
-    </modules>
+    <artifactId>whole-numbers</artifactId>
 
     <properties>
         <maven.compiler.source>11</maven.compiler.source>
