@@ -9,6 +9,7 @@
         <module name="char-boolean" />
         <module name="floating-numbers" />
         <module name="whole-numbers" />
+        <module name="ProductManagement" />
       </profile>
     </annotationProcessing>
   </component>
