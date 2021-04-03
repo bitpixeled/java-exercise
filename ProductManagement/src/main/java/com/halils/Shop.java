@@ -1,4 +1,4 @@
-package com.halils.app;
+package com.halils;
 
 import com.halils.data.Product;
 

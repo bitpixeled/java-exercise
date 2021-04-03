@@ -9,6 +9,7 @@
         <module name="char-boolean" />
         <module name="floating-numbers" />
         <module name="whole-numbers" />
+        <module name="TextDateTimeNumeric" />
         <module name="ProductManagement" />
       </profile>
     </annotationProcessing>
