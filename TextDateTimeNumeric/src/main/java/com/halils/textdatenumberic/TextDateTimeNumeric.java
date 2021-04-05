@@ -1,4 +1,11 @@
-package com.halils;
+/*
+ * Copyright (c) 2021.  halils.com
+ * All rights reserved.
+ * It's a joke there's nothing you can use lol.
+ *
+ */
+
+package com.halils.textdatenumberic;
 
 import java.math.BigDecimal;
 import java.math.RoundingMode;
@@ -62,6 +69,7 @@ public class TextDateTimeNumeric {
         String percentTxt = percentFormat.format(rate);
 
         System.out.println("Currency as French = " + formatTxt + " Percentage as French = " + percentTxt);
+
 
 
     }

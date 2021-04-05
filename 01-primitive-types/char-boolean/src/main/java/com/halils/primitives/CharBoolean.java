@@ -1,4 +1,11 @@
-package halils.com;
+/*
+ * Copyright (c) 2021.  halils.com
+ * All rights reserved.
+ * It's a joke there's nothing you can use lol.
+ *
+ */
+
+package com.halils.primitives;
 
 public class CharBoolean {
     public static void main(String[] args) {

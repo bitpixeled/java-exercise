@@ -1,4 +1,11 @@
-package com.halils;
+/*
+ * Copyright (c) 2021.  halils.com
+ * All rights reserved.
+ * It's a joke there's nothing you can use lol.
+ *
+ */
+
+package com.halils.floatingnumbers;
 
 public class FloatingPointNumbers {
     public static void main(String[] args) {
